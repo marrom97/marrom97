@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marrom97
+- 👋 Hi, I’m Marica Romano, Mari for friends and colleagues
 - 👀 I’m interested in making computer science a topic available for everyone!
 - 🌱 I’m currently learning functional programming, semantic web and machine learning
 
